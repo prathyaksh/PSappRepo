@@ -1,0 +1,4 @@
+This is an index file.
+Added this line using bash.
+Used vi filename.ext to open the file and then clicked escape button and i
+to start writing in the file.
